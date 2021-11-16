@@ -1,3 +1,5 @@
+<!--This is the template for the about page-->
+
 <template>
   <div>
     <GlobalNav/>
