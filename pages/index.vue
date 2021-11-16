@@ -8,7 +8,10 @@
 
 <script>
 export default {
-
+  target: 'static',
+  router: {
+    base: '/cpnt200-a1/'
+  }
 }
 </script>
 
