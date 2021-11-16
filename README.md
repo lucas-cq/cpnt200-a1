@@ -1,7 +1,7 @@
 # CPNT200-A1 - Lucas Cummings
 
 ## Repo & Pages
-* [Repo]()
+* [Repo](https://github.com/lucas-cq/cpnt200-a1)
 * [Pages]()
 
 ## Code Review
