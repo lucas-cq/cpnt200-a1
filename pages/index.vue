@@ -1,18 +1,13 @@
 <template>
   <div>
-    <GlobalNav/>
-    <Content/>
+    <GlobalNav />
+    <Content />
     <MyFooter />
   </div>
 </template>
 
 <script>
-export default {
-  target: 'static',
-  router: {
-    base: '/cpnt200-a1/'
-  }
-}
+export default {};
 </script>
 
 <style>
