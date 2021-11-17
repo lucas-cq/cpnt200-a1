@@ -9,3 +9,4 @@ Nuxt seems like an easier way to get an actual website running so far. Im excite
 
 ### Attributions
 * [Clay LeConey on Unsplash](https://unsplash.com/photos/CKHEh4zjdiM)
+* [Nuxt on Github Pages](https://nuxtjs.org/deployments/github-pages/)
