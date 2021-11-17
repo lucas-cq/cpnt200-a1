@@ -2,8 +2,10 @@
   <main>
     <h1>About Us</h1>
     <div class="img-box">
-    <nuxt-img src="assets/images/cooldude.jpg"
-    sizes="sm:100vw md:80vw lg:820px" />
+      <nuxt-img
+        src="assets/images/cooldude.jpg"
+        sizes="sm:100vw md:80vw lg:820px"
+      />
     </div>
   </main>
 </template>
